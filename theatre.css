@@ -1,0 +1,53 @@
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav-item {
+    display:inline-block;
+    float: none;
+    text-align: left;
+}
+
+.banner-image {
+    position: relative;
+}
+
+.banner-txt {
+    position: absolute;
+    top: 43%;
+    left: 33%;
+    color: white;
+    font-size: 550%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.date-txt{
+    background-color: whitesmoke;
+
+}
+
+.play-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 160%;
+}
+
+.play-text{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rdmore-btn{
+    background-color: gold;
+    color: white;
+    border-color: rgb(189, 157, 17);
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 30%;
+    margin-left: 55%;
+}
+
+.footer-row{
+    background-color: black;
+    color: white;
+    font-size: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+}
